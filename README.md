@@ -1,6 +1,8 @@
-Note: This repository does **not contain any data files** (including scraping/asset price/intermediate results/outputs). A version with data included is available on request.
+Note: 
+- This repository does **not contain any data files** (including scraping/asset price/intermediate results/outputs). A version with data included is available on request.
+- Any models used can be accessed [here](https://huggingface.co/JanJacobsen)
 
-### Overview
+## Code Overview
 
 #### ``scraping``
 
