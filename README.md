@@ -1,4 +1,4 @@
-Note: This repository does *not contain any* scraping/asset price/intermediate/output *data files*. A version with all data included is available on request.
+Note: This repository does **not contain any** scraping/asset price/intermediate/output **data files**. A version with all data included is available on request.
 
 ### Overview
 
