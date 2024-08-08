@@ -1,0 +1,1 @@
+{"pf_types": ["equal_weight"], "neutral_assets": ["cash", "3m_tbills", "SPY"], "max_holding_periods": [21, 126, 252, 99999], "after_upload_waits": [1], "max_positions": [5, 99999]}
